@@ -1,0 +1,11 @@
+DIKANY:readonly disable
+
+Un élément en lecture seule n'est tout simplement pas modifiable, mais est envoyé lorsque le formulaire correspondant est soumis.
+Un élément désactivé n'est pas modifiable et n'est pas envoyé lors de l'envoi.
+
+SELECT:
+eprésente un contrôle qui fournit une liste d'options parmi lesquelles l'utilisateur pourra choisir.
+
+
+Min-height: est utilisée afin de définir la hauteur minimale d'un élément. 
+Elle empêche ainsi que la valeur utilisée de la propriété height devienne inférieure à min-height.
